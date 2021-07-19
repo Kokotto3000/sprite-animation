@@ -12,7 +12,7 @@ const canvasWidth= CANVAS.width= 600;
 const canvasHeight= CANVAS.height= 600;
 
 const playerImage= new Image();
-playerImage.src= '../img/shadow_dog.png';
+playerImage.src= 'https://kokotto3000.github.io/sprite-animation/img/shadow_dog.png';
 
 const spriteWidth= 575; //6876 / 12;
 const spriteHeight= 5230 /10;
